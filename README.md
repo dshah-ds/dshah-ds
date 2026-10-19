@@ -105,7 +105,7 @@ Microsoft Certified: Azure Data Engineer Associate (DP-203)                    e
 
 - 🔨 Building my first AI agent with Emergent
 - 🔜 Live, in-browser demos for each project, starting with the SQL project
-- 🎥 Teaching applied ML on YouTube: *One Notebook at a Time*
+- 🎥 Planning *One Notebook at a Time*, a 20-video applied-ML series
 - 🧭 Exploring next: serving a trained model as an API (Flask + Docker) and MLOps tooling (MLflow, drift monitoring)
 
 Full roadmap, with what's already shipped: **[devam-shah.com/now](https://devam-shah.com/now/)**
