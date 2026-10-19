@@ -8,6 +8,7 @@
 *5+ years of production-systems discipline from banking IT, now applied to Python, ML and GenAI.*
 
 [![Website](https://img.shields.io/badge/devam--shah.com-E06A4E?style=flat&logo=googlechrome&logoColor=white)](https://devam-shah.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20%26%20download-8E2F2A?style=flat&logo=readthedocs&logoColor=white)](https://devam-shah.com/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devam--a--shah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devam-a-shah)
 [![Medium](https://img.shields.io/badge/Medium-@devamshah26-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@devamshah26)
 [![Blog](https://img.shields.io/badge/Blog-One%20Notebook%20at%20a%20Time-C77B3F?style=flat&logo=blogger&logoColor=white)](https://onenotebookatatime.blogspot.com)
@@ -114,8 +115,8 @@ Full roadmap, with what's already shipped: **[devam-shah.com/now](https://devam-
 
 ## Let's talk
 
-Open to **Data Scientist, Data Analyst and Analytics Engineer** roles in the GTA, and remote across Canada.
-**[devamshah26@gmail.com](mailto:devamshah26@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/devam-a-shah)** · **[devam-shah.com](https://devam-shah.com)**
+Open to **Data Science, Data Analytics, IT Operations and Support Analyst** roles in the GTA, and remote across Canada.
+**[Resume](https://devam-shah.com/resume/)** · **[devamshah26@gmail.com](mailto:devamshah26@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/devam-a-shah)** · **[devam-shah.com](https://devam-shah.com)**
 
 <div align="center">
 <sub>Built in public, one notebook at a time.</sub>
