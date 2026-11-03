@@ -32,10 +32,14 @@ I spent years keeping a bank's systems reliable. Now I bring that discipline to 
 
 | Project | What it shows | Result |
 |---|---|---|
+| [Resume Screening & Role Matching](https://github.com/dshah-ds/resume-role-matching-nlp) | NLP engine ranking 5,000 resumes against 10 jobs: fuzzy skill cleaning, rule + ML scoring, a reason per candidate, Streamlit dashboard | **86%** on-profile top-20s, 61% less reading |
+| [Fraud Detection in Online Payments](https://github.com/dshah-ds/online-payment-fraud-detection) | 50,000 transactions: stats-tested signals, time-ordered CV, cost-based threshold, four-tier risk score | **74.9%** of test fraud caught |
+| [Face Recognition on LFW](https://github.com/dshah-ds/lfw-face-recognition) | HOG + SVM vs a CNN vs fine-tuned MobileNetV2 on 62 people, with bootstrap intervals and a ViT attention walkthrough | **86.8%** test accuracy |
+| [CineSense: NLP on IMDB Reviews](https://github.com/dshah-ds/cinesense-imdb-nlp) | Sentiment, emotion, writing style, aspects and BERT similarity on 50,000 reviews, including an emotion method that failed and why | **88.3%** sentiment accuracy |
 | [Chicago Crime Classifier](https://github.com/dshah-ds/chicago-crime-ann-classifier) | ANN on ~400K records pulled live from the Socrata API; caught and fixed data leakage | **77.4%** honest test accuracy |
 | [Review Sentiment & Response Assistant](https://github.com/dshah-ds/customer-sentiment-review-automation) | GenAI case study: VADER, TF-IDF segments and a Gemini-drafted reply a human approves (Gradio) | **45%** of reviews mismatch their star rating |
 | [ReadmitRadar](https://github.com/dshah-ds/readmitradar-hospital-readmission) | Neural net from first principles: manual forward pass, loss bake-off, 5 regularization trials | **62.6%** test accuracy, 64→32→16 network |
-| [Ames Housing Price Prediction](https://github.com/dshah-ds/ames-housing-price-prediction) | 5 regression models with VIF, backward elimination, GridSearchCV and leak-free scaling | Full model comparison |
+| [Ames Housing Price Prediction](https://github.com/dshah-ds/ames-housing-price-prediction) | 5 regression models with VIF, backward elimination, GridSearchCV and leak-free scaling | Ridge **test R² 0.884** |
 | [Data Science Projects Portfolio](https://github.com/dshah-ds/data-science-projects-portfolio) | Hypothesis testing, classification, regression and clustering, each to a business recommendation | Random Forest **ROC-AUC 0.8257** |
 | [E-Commerce SQL](https://github.com/dshah-ds/ecommerce-sql-mini-project) | 42 business questions across 6 levels on a 6-table MySQL schema | Joins → subqueries → set operations |
 
